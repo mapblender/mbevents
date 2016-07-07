@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RESPONSE>
+    <LISTINGS>
+        <LISTING>
+            <SORTCOMPANY>Explore Navajo Interactive Museum</SORTCOMPANY>
+            <TYPENAME>Website</TYPENAME>
+            <STATE>AZ</STATE>
+            <LISTINGID>3002</LISTINGID>
+            <LOGOFILE/>
+            <ROW>1</ROW>
+            <WEBURL>http://www.explorenavajo.com</WEBURL>
+            <PRIMARYCONTACTTITLE>Director of Sales</PRIMARYCONTACTTITLE>
+            <IMGPATH>http://Sedona.simpleviewcrm.com/images//listings/</IMGPATH>
+            <LATITUDE/>
+            <PHONE>(928) 640-0684</PHONE>
+            <CATDESCRIPTION>attractions, things to see, things to do, local activities, entertainment, fun,</CATDESCRIPTION>
+            <ADDR2/>
+            <ADDR1>10 N Main St</ADDR1>
+            <ADDITIONALSUBCATS/>
+            <ZIP>86045</ZIP>
+            <ADDR3/>
+            <CATNAME>Attractions &amp; Entertainment</CATNAME>
+            <EMAIL>info@explorenavajo.com</EMAIL>
+            <REGION>Outside Sedona Verde Valley</REGION>
+            <RANKNAME>100 Character Description</RANKNAME>
+            <FAX>(928) 283-4144</FAX>
+            <TYPEID>1</TYPEID>
+            <ACCTSTATUS>Active</ACCTSTATUS>
+            <COMPANY>Explore Navajo Interactive Museum</COMPANY>
+            <SUBCATID>334</SUBCATID>
+            <DESCRIPTION>Explore Navajo Interactive Museum is an insightful look into Navajo people.  Come explore the culture!</DESCRIPTION>
+            <SOCIALMEDIA></SOCIALMEDIA>
+            <TOLLFREE>(800) 644-8383</TOLLFREE>
+            <CREATED>2013-05-29 22:24:00.0</CREATED>
+            <RANKID>1</RANKID>
+            <CATID>26</CATID>
+            <ALTPHONE>(928) 283-4545</ALTPHONE>
+            <DISPLAYWEBSITELINK>1</DISPLAYWEBSITELINK>
+            <LASTUPDATED>2016-04-04 12:31:00.0</LASTUPDATED>
+            <SUBCATDESCRIPTION/>
+            <LISTINGKEYWORDS/>
+            <SUBCATNAME>Museums</SUBCATNAME>
+            <ACCOUNTKEYWORDS/>
+            <PRIMARYCONTACTFULLNAME>Donovan Hanley</PRIMARYCONTACTFULLNAME>
+            <CITY>Tuba City</CITY>
+            <LONGITUDE/>
+            <ACCTID>10059</ACCTID>
+            <PHOTOFILE/>
+            <REGIONID>67</REGIONID>
+        </LISTING>
+        <LISTING>
+            <SORTCOMPANY>Gold King Mine &amp; Ghost Town</SORTCOMPANY>
+            <TYPENAME>Website</TYPENAME>
+            <STATE>AZ</STATE>
+            <LISTINGID>971</LISTINGID>
+            <LOGOFILE/>
+            <ROW>2</ROW>
+            <WEBURL>http://www.goldkingmineghosttown.com</WEBURL>
+            <PRIMARYCONTACTTITLE>Owner</PRIMARYCONTACTTITLE>
+            <IMGPATH>http://Sedona.simpleviewcrm.com/images//listings/</IMGPATH>
+            <LATITUDE/>
+            <PHONE>(928) 634-0053</PHONE>
+            <CATDESCRIPTION>attractions, things to see, things to do, local activities, entertainment, fun,</CATDESCRIPTION>
+            <ADDR2/>
+            <ADDR1>1000 Perkinsville Rd</ADDR1>
+            <ADDITIONALSUBCATS/>
+            <ZIP>86331</ZIP>
+            <ADDR3/>
+            <CATNAME>Attractions &amp; Entertainment</CATNAME>
+            <EMAIL>jleffew777@hotmail.com</EMAIL>
+            <REGION>Verde Valley</REGION>
+            <RANKNAME>300 Character Description</RANKNAME>
+            <FAX>(928) 526-1445</FAX>
+            <TYPEID>1</TYPEID>
+            <ACCTSTATUS>Active</ACCTSTATUS>
+            <COMPANY>Gold King Mine &amp; Ghost Town</COMPANY>
+            <SUBCATID>334</SUBCATID>
+            <DESCRIPTION>Historic gold-mining ghost town w. antique trucks &amp; equipment. Gifts.</DESCRIPTION>
+            <SOCIALMEDIA></SOCIALMEDIA>
+            <TOLLFREE/>
+            <CREATED>2013-05-29 22:24:00.0</CREATED>
+            <RANKID>2</RANKID>
+            <CATID>26</CATID>
+            <ALTPHONE/>
+            <DISPLAYWEBSITELINK>1</DISPLAYWEBSITELINK>
+            <LASTUPDATED>2015-11-19 10:43:00.0</LASTUPDATED>
+            <SUBCATDESCRIPTION/>
+            <LISTINGKEYWORDS/>
+            <SUBCATNAME>Museums</SUBCATNAME>
+            <ACCOUNTKEYWORDS/>
+            <PRIMARYCONTACTFULLNAME>Don Robertson</PRIMARYCONTACTFULLNAME>
+            <CITY>Jerome</CITY>
+            <LONGITUDE/>
+            <ACCTID>2440</ACCTID>
+            <PHOTOFILE/>
+            <REGIONID>68</REGIONID>
+        </LISTING>
+        <LISTING>
+            <SORTCOMPANY>Museum of Northern Arizona</SORTCOMPANY>
+            <TYPENAME>Website</TYPENAME>
+            <STATE>AZ</STATE>
+            <LISTINGID>1660</LISTINGID>
+            <LOGOFILE/>
+            <ROW>3</ROW>
+            <WEBURL>http://www.musnaz.org</WEBURL>
+            <PRIMARYCONTACTTITLE/>
+            <IMGPATH>http://Sedona.simpleviewcrm.com/images//listings/</IMGPATH>
+            <LATITUDE/>
+            <PHONE>(928) 774-5213</PHONE>
+            <CATDESCRIPTION>attractions, things to see, things to do, local activities, entertainment, fun,</CATDESCRIPTION>
+            <ADDR2/>
+            <ADDR1>3101 N Fort Valley Rd</ADDR1>
+            <ADDITIONALSUBCATS/>
+            <ZIP>86001</ZIP>
+            <ADDR3/>
+            <CATNAME>Attractions &amp; Entertainment</CATNAME>
+            <EMAIL>membership@musnaz.org</EMAIL>
+            <REGION>Outside Sedona Verde Valley</REGION>
+            <RANKNAME>100 Character Description</RANKNAME>
+            <FAX>(928) 779-1527</FAX>
+            <TYPEID>1</TYPEID>
+            <ACCTSTATUS>Active</ACCTSTATUS>
+            <COMPANY>Museum of Northern Arizona</COMPANY>
+            <SUBCATID>334</SUBCATID>
+            <DESCRIPTION>The Museum of Northern Arizona is one of the great regional museums of our world, surrounded by tremendous geological, biological and cultural resources in one of the most spectacular landscapes.</DESCRIPTION>
+            <SOCIALMEDIA></SOCIALMEDIA>
+            <TOLLFREE/>
+            <CREATED>2013-05-29 22:24:00.0</CREATED>
+            <RANKID>1</RANKID>
+            <CATID>26</CATID>
+            <ALTPHONE/>
+            <DISPLAYWEBSITELINK>1</DISPLAYWEBSITELINK>
+            <LASTUPDATED>2016-04-04 12:30:00.0</LASTUPDATED>
+            <SUBCATDESCRIPTION/>
+            <LISTINGKEYWORDS>museum</LISTINGKEYWORDS>
+            <SUBCATNAME>Museums</SUBCATNAME>
+            <ACCOUNTKEYWORDS/>
+            <PRIMARYCONTACTFULLNAME/>
+            <CITY>Flagstaff</CITY>
+            <LONGITUDE/>
+            <ACCTID>3289</ACCTID>
+            <PHOTOFILE/>
+            <REGIONID>67</REGIONID>
+        </LISTING>
+        <LISTING>
+            <SORTCOMPANY>Planes of Fame Air Museum</SORTCOMPANY>
+            <TYPENAME>Website</TYPENAME>
+            <STATE>AZ</STATE>
+            <LISTINGID>1700</LISTINGID>
+            <LOGOFILE/>
+            <ROW>4</ROW>
+            <WEBURL>http://www.planesoffame.org</WEBURL>
+            <PRIMARYCONTACTTITLE>Director</PRIMARYCONTACTTITLE>
+            <IMGPATH>http://Sedona.simpleviewcrm.com/images//listings/</IMGPATH>
+            <LATITUDE/>
+            <PHONE>(928) 635-1000</PHONE>
+            <CATDESCRIPTION>attractions, things to see, things to do, local activities, entertainment, fun,</CATDESCRIPTION>
+            <ADDR2/>
+            <ADDR1>755 Mustang Way</ADDR1>
+            <ADDITIONALSUBCATS/>
+            <ZIP>86046</ZIP>
+            <ADDR3/>
+            <CATNAME>Attractions &amp; Entertainment</CATNAME>
+            <EMAIL>rreedaz@aol.com</EMAIL>
+            <REGION>Outside Sedona Verde Valley</REGION>
+            <RANKNAME>100 Character Description</RANKNAME>
+            <FAX>(928) 635-1001</FAX>
+            <TYPEID>1</TYPEID>
+            <ACCTSTATUS>Active</ACCTSTATUS>
+            <COMPANY>Planes of Fame Air Museum</COMPANY>
+            <SUBCATID>334</SUBCATID>
+            <DESCRIPTION>Vintage aircraft WWI, WWII &amp; Korean War EAA Aircraft - many still flying.</DESCRIPTION>
+            <SOCIALMEDIA></SOCIALMEDIA>
+            <TOLLFREE/>
+            <CREATED>2013-05-29 22:24:00.0</CREATED>
+            <RANKID>1</RANKID>
+            <CATID>26</CATID>
+            <ALTPHONE/>
+            <DISPLAYWEBSITELINK>1</DISPLAYWEBSITELINK>
+            <LASTUPDATED>2016-03-24 09:57:00.0</LASTUPDATED>
+            <SUBCATDESCRIPTION/>
+            <LISTINGKEYWORDS>The Air Museum</LISTINGKEYWORDS>
+            <SUBCATNAME>Museums</SUBCATNAME>
+            <ACCOUNTKEYWORDS/>
+            <PRIMARYCONTACTFULLNAME>Robert Reed</PRIMARYCONTACTFULLNAME>
+            <CITY>Valle</CITY>
+            <LONGITUDE/>
+            <ACCTID>3339</ACCTID>
+            <PHOTOFILE/>
+            <REGIONID>67</REGIONID>
+        </LISTING>
+        <LISTING>
+            <SORTCOMPANY>Sedona Heritage Museum</SORTCOMPANY>
+            <TYPENAME>Website</TYPENAME>
+            <STATE>AZ</STATE>
+            <LISTINGID>1069</LISTINGID>
+            <LOGOFILE/>
+            <ROW>5</ROW>
+            <WEBURL>http://www.sedonamuseum.org</WEBURL>
+            <PRIMARYCONTACTTITLE/>
+            <IMGPATH>http://Sedona.simpleviewcrm.com/images//listings/</IMGPATH>
+            <LATITUDE/>
+            <PHONE>(928) 282-7038</PHONE>
+            <CATDESCRIPTION>attractions, things to see, things to do, local activities, entertainment, fun,</CATDESCRIPTION>
+            <ADDR2/>
+            <ADDR1>735 Jordan Rd</ADDR1>
+            <ADDITIONALSUBCATS/>
+            <ZIP>86336</ZIP>
+            <ADDR3/>
+            <CATNAME>Attractions &amp; Entertainment</CATNAME>
+            <EMAIL>info@sedonamuseum.org</EMAIL>
+            <REGION>Uptown &amp; State Route 179</REGION>
+            <RANKNAME>300 Character Description</RANKNAME>
+            <FAX>(928) 282-6398</FAX>
+            <TYPEID>1</TYPEID>
+            <ACCTSTATUS>Active</ACCTSTATUS>
+            <COMPANY>Sedona Heritage Museum</COMPANY>
+            <SUBCATID>334</SUBCATID>
+            <DESCRIPTION>On the National Register of Historic Places, featuring local pioneer history, Sedona movie history &amp; NEW: telegraph office from 1940s movie set, cowboy life, vintage machinery, orchard industry history and fun for kids. Enjoy panoramic views, picnic tables, programs, audio tour, weddings, a gift shop.</DESCRIPTION>
+            <SOCIALMEDIA></SOCIALMEDIA>
+            <TOLLFREE/>
+            <CREATED>2013-05-29 22:24:00.0</CREATED>
+            <RANKID>2</RANKID>
+            <CATID>26</CATID>
+            <ALTPHONE/>
+            <DISPLAYWEBSITELINK>1</DISPLAYWEBSITELINK>
+            <LASTUPDATED>2016-03-16 14:20:00.0</LASTUPDATED>
+            <SUBCATDESCRIPTION/>
+            <LISTINGKEYWORDS/>
+            <SUBCATNAME>Museums</SUBCATNAME>
+            <ACCOUNTKEYWORDS/>
+            <PRIMARYCONTACTFULLNAME>Kathie Hamblen</PRIMARYCONTACTFULLNAME>
+            <CITY>Sedona</CITY>
+            <LONGITUDE/>
+            <ACCTID>2590</ACCTID>
+            <PHOTOFILE>wedding-800-x-600-Chamber.jpg</PHOTOFILE>
+            <REGIONID>1</REGIONID>
+        </LISTING>
+    </LISTINGS>
+    <REQUESTSTATUS>
+        <PAGESIZE>1000</PAGESIZE>
+        <PAGENUM>1</PAGENUM>
+        <RESULTS>5</RESULTS>
+        <ERRORS></ERRORS>
+        <HASERRORS>0</HASERRORS>
+    </REQUESTSTATUS>
+</RESPONSE>

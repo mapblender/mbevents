@@ -1,0 +1,36 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+authname www.mapblender.COM
+
+authuserfile /var/chroot/home/content/c/o/m/combatc106/html/_vti_pvt/service.pwd
+
+authgroupfile /var/chroot/home/content/c/o/m/combatc106/html/_vti_pvt/service.grp
+
+addhandler x-httpd-python23 .py
+
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+
+order deny,allow
+
+deny from all
+
+allow from all
+
+</Limit>
+
+<Limit PUT DELETE>
+
+order deny,allow
+
+deny from all
+
+</Limit>
+

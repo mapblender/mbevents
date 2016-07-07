@@ -1,0 +1,179 @@
+.vex-theme-os{
+	/*position: relative !important;*/
+}
+body { margin:0; padding:0; }
+
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+#direc{cursor: pointer}
+
+#toolbar{
+  padding-top: 12px;
+  font-size: larger;
+}
+
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://fonts.gstatic.com/s/materialicons/v17/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+.img-control {
+    background-image: url('../../assets/sedona_grey.jpg');
+    width: 167px;
+    height: 77px;
+    cursor: pointer;
+    margin-bottom:0px !important;
+    margin-right:1px !important;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #4bc1b9 !important;
+}
+.nav-pills{
+  margin-left:40%;
+}
+.art-gallery{
+  background-image: url('../../assets/art_icon.png');
+}
+.nav-pills>li>a{
+  background-color:white !important;
+}
+/*#4bc1b9!important*/
+/*#99520e
+background: #7A1800 !important;
+blue 4bc1b9*/
+.vex.vex-theme-os .vex-dialog-button.vex-dialog-button-primary {
+  	background: #4bc1b9 !important;
+}
+/*#99520e
+border-top: 20px solid #58595B !important;*/
+.vex.vex-theme-os .vex-content {
+    border-top: 20px solid #99520e !important;
+    line-height: 1em !important;
+    width: 370px !important;
+    border-top: 20px solid #99520e!important;
+}
+.vex-dialog-button-primary{
+  background: #7C4A35!important;
+}
+.vex.vex-theme-os .vex-dialog-button{
+  padding: .75em 1em !important;
+}
+.vex.vex-theme-os {
+    padding-top: 80px !important;
+}
+.vex{
+  overflow: hidden !important;
+}
+.vex-dialog-message{
+  font-size: 15px !important;
+}
+.leaflet-top,
+.leaflet-bottom {
+  position: absolute !important;
+  z-index: 499 !important; /* was 1000 */
+  pointer-events: none !important;
+  }
+
+/* Compatible with Leaflet 0.7 */
+.leaflet-touch .leaflet-bar-part-single {
+  -webkit-border-radius: 7px 7px 7px 7px;
+  border-radius: 7px 7px 7px 7px;
+  border-bottom: none;
+}
+.leaflet-touch .leaflet-control-locate {
+  box-shadow: none;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  background-clip: padding-box;
+}
+
+.leaflet-control-locate a {
+  font-size: 1.4em;
+  color: #444;
+}
+.leaflet-control-locate.active a {
+  color: #2074B6;
+}
+.leaflet-control-locate.active.following a {
+  color: #FC8428;
+}
+
+/* Mapbox specific adjustments */
+.leaflet-control-locate a {
+  padding: 3px 0 0 8px;
+}
+.leaflet-control-locate.requesting a {
+  padding: 3px 0 0 4px;
+}
+.leaflet-compact-attribution{
+  display: none;
+}
+
+.custom-popup .leaflet-popup-content-wrapper {
+  border-radius: 10px !important;
+  background:#2c3e50;
+  color:#fff;
+  font-size:16px;
+  max-width: 230px;
+  line-height:24px;
+  }
+.custom-popup .leaflet-popup-content-wrapper a {
+    color:rgba(255,255,255,0.5);
+  }
+.custom-popup .leaflet-popup-tip-container {
+  width:30px;
+  height:15px;
+  }
+.custom-popup .leaflet-popup-tip {
+  border-left:15px solid transparent;
+  border-right:15px solid transparent;
+  border-top:15px solid #2c3e50;
+}
+.marker-description a{
+  text-decoration: underline;
+}
+
+#direc a{  
+  color:#3887BE !important;
+  font-weight: bold;
+}
+
+#loader {
+    /*position:absolute; top:0; bottom:0; width:100%;
+    background:rgba(255, 255, 255, 1);
+    transition:background 1s ease-out;
+    -webkit-transition:background 1s ease-out;*/
+}
+#loader.done {
+    background:rgba(255, 255, 255, 0);
+}
+#loader.hide {
+    display:none;
+}
+#loader .message {
+    position:absolute;
+    height: 50px;
+    width: 50px;
+    left:50%;
+    top:50%;
+    background-image: url('../../assets/wheel.gif');
+}

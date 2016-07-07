@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Walk Sedona Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="shortcut icon" href="https://walksedona.com/assets/sedona.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<script src='app/js/mapbox.js'></script>
+<script src='app/js/date.js'></script>
+<!-- <script src='app/js/leaflet.markercluster.js'></script> -->
+<script src='app/js/L.Control.Locate.min.js'></script>
+<script src='app/js/mapbox.directions_min.js'></script>
+<script src='app/js/leaflet.geometryutil.js'></script>
+<script src='app/js/bowser.min.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/turf/v1.3.0/turf.min.js'></script> -->
+<script src="app/js/vex.combined.min.js"></script>
+<script src='app/app.min.js'></script>
+<link href='app/css/mapbox.css' rel='stylesheet' />
+<!-- <link href='app/css/MarkerCluster.css' rel='stylesheet' />
+<link href='app/css/MarkerCluster.Default.css' rel='stylesheet' />nav-stacked-->
+<link href='app/css/font-awesome.min.css' rel='stylesheet' /> 
+<link href='app/css/app.min.css' rel='stylesheet' />
+<link rel="stylesheet" href="app/css/vex.css" />
+<link rel="stylesheet" href="app/css/vex-theme-os.css" />
+</head>
+<body>
+<div class='custom-popup' id='map'></div>
+<div id='toolbar'>
+	<ul id='layercontrolTab' class="nav nav-pills">
+	  <li><a href="#">All</a></li>
+	  <li ><a href="#"><i class="material-icons">palette</i> Galleries</a></li>
+	  <li class="active"><a href="#"><i style="font-size: 14px;" class="fa fa-cutlery">  </i>   Restaurants</a></li>
+	</ul>
+</div>
+<div id='loader'><span class='message'></span></div>
+<script>
+vex.defaultOptions.className = 'vex-theme-os';
+startup();
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-76998604-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
